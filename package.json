@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@phuocng/react-pdf-viewer": "1.0.0",
+    "@react-pdf-viewer/core": "3.7.0",
+    "@react-pdf-viewer/default-layout": "3.7.0",
+    "custom-error": "0.2.1",
+    "logging-library": "^0.5.0",
+    "pdfjs-dist": "2.15.349",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-file-viewer": "1.0.0",
+    "react-pdf": "5.7.2",
+    "webpack": "5.74.0",
+    "worker-loader": "3.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
